@@ -504,6 +504,7 @@ font-size: 23px;
 /*--------------------------GALLERY CSS PROPERTIES-------------------*/
 .gallery-container{ 
   margin-top: 20rem;
+  margin-left: 6rem;
 }
 
 .gallery-title{
