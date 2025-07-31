@@ -137,8 +137,8 @@ const menuRef =useRef(null)
           <div className='gallery-imgs e' ><img src='/small.jpg' /></div>
           <div className='gallery-imgs f' ><img src='/baranti.webp' /></div>
           <div className='gallery-imgs g' ><img src='/recep.jpg' /></div>
-          <div className='gallery-imgs h' ><img src='/flower.jpg' /></div>
-          <div className='gallery-imgs i' ><img src='/room1.jpg' /></div>
+          <div className='gallery-imgs h' ><img src='/room1.jpg' /></div>
+          <div className='gallery-imgs i' ><img src='/flower.jpg' /></div>
           <div className='gallery-imgs j' ><img src='/mithonDam.webp' /></div>
         </div>
       </div><br /><br /><br /><br /><br />
