@@ -84,9 +84,10 @@ html {
   display: flex;
   text-align: center;
   justify-content: center;
-  margin: 3rem -1rem;
+  margin: -2rem -1rem;
   list-style: none;
 }
+
 .list-items li{
   margin-right: 7rem;
 }
@@ -120,8 +121,8 @@ nav ul li a:hover::after{
   padding:13px;
   right: 30px;
   display:inline-block;
-  position: relative;
-  margin: 0rem 18rem;
+  position: absolute;
+  margin: 0rem 25rem;
 }
 
 .home-text {
@@ -156,7 +157,7 @@ nav ul li a:hover::after{
   background:white;
   box-shadow:  1px 1px 12px 4px  rgb(145, 197, 240);
   border-radius: 10px;
-  margin: -2rem 17rem;
+  margin: -14rem 17rem;
 }
 
 .home-bottom-btn {
@@ -533,69 +534,69 @@ margin:-2.5rem 6rem
     height: 800px;
 }
 div.gallery-imgs.a{
-    width: 400px;
-    height: 820px;
+    width: 300px;
+    height: 720px;
     position: absolute;
 }
 div.gallery-imgs.b{
   position: relative;
-    margin: 0rem 25rem;
-    width: 580px;
-    height: 400px;
+    margin: 0rem 18.7rem;
+    width: 430px;
+    height: 350px;
 }
 div.gallery-imgs.c{
   position: relative;
-    margin: -25rem 61rem;
-    width: 380px;
-    height: 400px;
+    margin: -21.9rem 45.6rem;
+    width: 300px;
+    height: 350px;
 }
 div.gallery-imgs.d{
   position: relative;
-    margin: -25rem 84.7rem;
-    width: 380px;
-    height: 400px;
+    margin: -21.9rem 64.3rem;
+    width: 300px;
+    height: 350px;
 }
 div.gallery-imgs.e{
   position: relative;
-    margin: 0rem 25rem;
-    width: 380px;
-    height: 420px;
+    margin: 0rem 18.7rem;
+    width: 300px;
+    height: 350px;
 }
 div.gallery-imgs.f{
   position: relative;
-    margin: -26.3rem 48.7rem;
-    width: 576px;
-    height: 421px;
+    margin: -21.9rem 37.4rem;
+    width: 451px;
+    height: 350px;
 }
 div.gallery-imgs.g{
     position: relative;
-    margin: -26.3rem 84.7rem;
-    width: 380px;
-    height: 421px;
+    margin: -21.9rem 65.6rem;
+    width: 280px;
+    height: 350px;
 }
 div.gallery-imgs.h{
   position: relative;
   margin: 0rem 0rem;
-  width: 514px;
-  height: 420px;
+  width: 380px;
+  height: 350px;
 }
 div.gallery-imgs.i{
   position: relative;
-    margin: -26.3rem 32.1rem;
-    width: 555px;
-    height: 421px;
+    margin: -21.9rem 23.5rem;
+    width: 405px;
+    height: 351px;
 }
 
 div.gallery-imgs.j{
   position: relative;
-    margin: -26.3rem 66.8rem;
-    width: 667px;
-    height: 420px;
+    margin: -22rem 48.8rem;
+    width: 550px;
+    height: 351px;
 }
 .gallery-Allimgs div{
   transition: all ease-in-out, transform 1s cubic-bezier(1, 1, 1, 1);
 }
-.gallery-Allimgs:hover div{
+.gallery-Allimgs:hover di{
   transform:matrix(0.9,0,0,1,0,1);
 }
 
