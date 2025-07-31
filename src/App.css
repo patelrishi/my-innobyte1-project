@@ -122,7 +122,7 @@ nav ul li a:hover::after{
   right: 30px;
   display:inline-block;
   position: absolute;
-  margin: 0rem 25rem;
+  margin: 0rem 15rem;
 }
 
 .home-text {
@@ -157,7 +157,7 @@ nav ul li a:hover::after{
   background:white;
   box-shadow:  1px 1px 12px 4px  rgb(145, 197, 240);
   border-radius: 10px;
-  margin: -14rem 17rem;
+  margin: -9rem 17rem;
 }
 
 .home-bottom-btn {
@@ -534,69 +534,69 @@ margin:-2.5rem 6rem
     height: 800px;
 }
 div.gallery-imgs.a{
-    width: 300px;
+    width: 350px;
     height: 720px;
     position: absolute;
 }
 div.gallery-imgs.b{
   position: relative;
-    margin: 0rem 18.7rem;
-    width: 430px;
+    margin: 0rem 21.5rem;
+    width: 450px;
     height: 350px;
 }
 div.gallery-imgs.c{
   position: relative;
-    margin: -21.9rem 45.6rem;
-    width: 300px;
+    margin: -21.9rem 49.6rem;
+    width: 350px;
     height: 350px;
 }
 div.gallery-imgs.d{
   position: relative;
-    margin: -21.9rem 64.3rem;
-    width: 300px;
+    margin: -21.9rem 71.3rem;
+    width: 350px;
     height: 350px;
 }
 div.gallery-imgs.e{
   position: relative;
-    margin: 0rem 18.7rem;
-    width: 300px;
+    margin: 0rem 21.5rem;
+    width: 334px;
     height: 350px;
 }
 div.gallery-imgs.f{
   position: relative;
-    margin: -21.9rem 37.4rem;
-    width: 451px;
+    margin: -21.9rem 42.4rem;
+    width: 470px;
     height: 350px;
 }
 div.gallery-imgs.g{
     position: relative;
-    margin: -21.9rem 65.6rem;
-    width: 280px;
+    margin: -21.9rem 71.4rem;
+    width: 350px;
     height: 350px;
 }
 div.gallery-imgs.h{
   position: relative;
   margin: 0rem 0rem;
-  width: 380px;
+  width: 488px;
   height: 350px;
 }
 div.gallery-imgs.i{
   position: relative;
-    margin: -21.9rem 23.5rem;
-    width: 405px;
+    margin: -21.9rem 30.5rem;
+    width: 425px;
     height: 351px;
 }
 
 div.gallery-imgs.j{
   position: relative;
-    margin: -22rem 48.8rem;
-    width: 550px;
+    margin: -22rem 57rem;
+    width: 580px;
     height: 351px;
 }
 .gallery-Allimgs div{
   transition: all ease-in-out, transform 1s cubic-bezier(1, 1, 1, 1);
 }
-.gallery-Allimgs:hover di{
+.gallery-Allimgs:hover div{
   transform:matrix(0.9,0,0,1,0,1);
 }
 
